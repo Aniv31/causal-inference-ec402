@@ -6,7 +6,7 @@ as.
 What is the causal impact of mosquito net usage on dengue risk among households?
 
 ## Files
-- `Impact_Assignment1.Rmd: Main R Markdown document with complete analysis
+- Impact_Assignment1.Rmd: Main R Markdown document with complete analysis
 - analysis.R: Clean R script version of the analysis
 - dengue_nets.csv: Dataset (stored locally)
 
